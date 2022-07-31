@@ -4,9 +4,9 @@
 1. 将原始日语文本放入 ./filelists
 2. 将WAV文件放入 ./wav
 3. (可选) 下载NVIDIA的[pretrained模型](https://drive.google.com/file/d/1c5ZTuT7J08wLUoVZ2KkUs_VdZuJ86ZqA/view?usp=sharing)
-4. Open ./train.ipynb to install requirements and start training
-5. Download NVIDIA's [WaveGlow model](https://drive.google.com/open?id=1rpK8CzAAirq9sWZhe9nlfvxMF1dRgFbF)
-6. Open ./inference.ipynb to generate voice
+4. 打开./train.ipynb来安装依赖并开始训练。
+5. 下载NVIDIA的[WaveGlow模型](https://drive.google.com/open?id=1rpK8CzAAirq9sWZhe9nlfvxMF1dRgFbF)
+6. 打开./inference.ipynb来生成语音
 
 ## Cleaners
 File ./hparams.py line 30
